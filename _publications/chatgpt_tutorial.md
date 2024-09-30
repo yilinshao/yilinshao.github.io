@@ -3,7 +3,7 @@ title: "[Book] A Concise Guide to ChatGPT"
 collection: publications
 permalink: /publication/2023-07-chatgpt-tutorial
 excerpt: "<br/><img src='/images/chatgpt.png' width='500'>"
-date: 2023-07
+date: 2023-07-01
 preauthors: Jiao, Licheng and Liu, Xu and Zhao, Jiaxuan and Yang, Yuting and
 me: Shao, Yilin
 postauthors: and He, Wenxin and Huang, Zhongjian and Xu, Wei
