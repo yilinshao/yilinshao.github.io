@@ -52,5 +52,6 @@ Teaching
 Service and leadership
 ======
 * Reviewer of IEEE Transactions on Neural Network Learning System
+* Graduated [summa cum laude](https://arc.net/l/quote/lsidxzfj) 
 * President of Class 1901, School of Artificial Intelligence, Xidian University. (Sept, 2019 - Jun, 2022)
 * Vice director of Xidian University Student Union. (Sept, 2016 - Sept, 2017) 
